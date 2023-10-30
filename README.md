@@ -5,10 +5,9 @@
 Integrantes 
 * Ivan leonardo niño Villamil
 * Juan David Morantes Vergara
-* Compañera
+* Mariana Robayo Nieto - 2195092
 
-
-Repositorio que con tiene los datos del proyecto final de la materia Inteligencia artificial II
+El proyecto de Inteligencia Artificial (IA) tiene como objetivo desarrollar un sistema de clasificación de hongos utilizando redes neuronales convolucionales (CNN). El desafío principal es entrenar un modelo capaz de identificar con precisión las 100 especies de hongos del conjunto de datos "Mushroom species", disponible en Kaggle.
 
 Dataste y descripción:
 Nombre:Mushroom species
@@ -21,9 +20,9 @@ Contenido:
 
 En dataset cuenta con 77.382 fotos de 100 especies distintas de hongos tomadas en el territorio ruso, el dataset cuenta con una carpeta por cada especie de hongo y cada imagen es tomada de un hongo diferente y en diferentes ángulos por lo que no existen dos fotos iguales.
 
-Cabe resaltar que todas las imágenes están a color, además de no encontrarse en el mismo formato de archivo y en diferentes tamaños.
+Se abordarán desafíos como la variabilidad en el tamaño, el formato y el color de las imágenes, así como la distinción entre especies similares. El objetivo es crear un clasificador preciso que, dada una imagen de un hongo, pueda identificar la especie con alta exactitud.
 
-Especies de hongos junto con su numero de fotos:
+El repositorio ya incluye el conjunto de datos con la cantidad de imagenes que contiene cada una de las 100 especies de hongos:
 
 * Amanita citrina: 292
 * Amanita muscaria: 4258
@@ -125,6 +124,10 @@ Especies de hongos junto con su numero de fotos:
 * Verpa bohemica: 787
 * Vulpicida pinastri: 865
 * Xanthoria parietina: 5837
+
+
+Se espera que este proyecto no solo logre clasificar con éxito estas especies, sino también se plantea como una herramienta útil en la identificación de hongos en entornos naturales o en estudios de biodiversidad, contribuyendo así a la ciencia y la preservación del medio ambiente.
+
 
 
 
