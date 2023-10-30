@@ -4,7 +4,7 @@
 
 Integrantes 
 * Ivan leonardo niño Villamil
-* Compañero
+* Juan
 * Compañera
 
 
