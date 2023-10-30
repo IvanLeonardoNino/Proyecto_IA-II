@@ -18,9 +18,9 @@ Link: https://www.kaggle.com/datasets/thehir0/mushroom-species/
 Peso:10 GB
 ## Idea General del proyecto
 
-Mediante este proyecto y teniendo en cuenta el dataset la idea general consiste en entrenar un model mediante redes convolucionales capaz de clasificar en su mayoria los hongos con respecto a su especie
+Mediante este proyecto y teniendo en cuenta el dataset que contiene 100 especies de hongos distintos, la idea general consiste en entrenar varios modelos mediante capaces de clasificar los hongos con respecto a su especie
 
-Se espera obtener un modelo capaz de clasificar la especie con una accuraci de minimo 60 % 
+Se espera que al aplicar varios modelos y tecnicas diferentes de clasificacion logremos llegar a el metodo mas adecuado para un problema de clasificacion como este
 ## Contenido:
 
 En dataset cuenta con 77.382 fotos de 100 especies distintas de hongos tomadas en el territorio ruso, el dataset cuenta con una carpeta por cada especie de hongo y cada imagen es tomada de un hongo diferente y en diferentes ángulos por lo que no existen dos fotos iguales.
