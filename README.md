@@ -4,8 +4,8 @@
 
 Integrantes 
 * Ivan leonardo niño Villamil
-* Ivan leonardo niño Villamil
-* Ivan leonardo niño Villamil
+* Compañero
+* Compañera
 
 
 Repositorio que con tiene los datos del proyecto final de la materia Inteligencia artificial II
@@ -24,7 +24,7 @@ En dataset cuenta con 77.382 fotos de 100 especies distintas de hongos tomadas e
 Cabe resaltar que todas las imágenes están a color, además de no encontrarse en el mismo formato de archivo y en diferentes tamaños.
 
 Especies de hongos           Cantidad de fotos
-* Amanita citrina             * 292
+* Amanita citrina      292
 * Amanita muscaria            4258
 * Amanita pantherina           342
 * Amanita rubescens            532
