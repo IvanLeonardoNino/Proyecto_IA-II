@@ -1,6 +1,8 @@
 # Proyecto_IA-II (Sistema de clasificación de hongos)
 Repositorio que con tiene los datos del proyecto final de la materia Inteligencia artificial II
 
+![Banner](https://github.com/IvanLeonardoNino/Proyecto_IA-II/assets/82769220/18aa1ae2-09fb-4cd7-aec7-35d9f455576c)
+
 Dataste y descripción:
 Nombre:Mushroom species
 
