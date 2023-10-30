@@ -17,7 +17,7 @@ Link: https://www.kaggle.com/datasets/thehir0/mushroom-species/
 
 Peso:10 GB
 
-Contenido:
+##Contenido:
 
 En dataset cuenta con 77.382 fotos de 100 especies distintas de hongos tomadas en el territorio ruso, el dataset cuenta con una carpeta por cada especie de hongo y cada imagen es tomada de un hongo diferente y en diferentes ángulos por lo que no existen dos fotos iguales.
 
