@@ -20,7 +20,14 @@ Peso:10 GB
 
 Mediante este proyecto y teniendo en cuenta el dataset que contiene 100 especies de hongos distintos, la idea general consiste en entrenar varios modelos mediante capaces de clasificar los hongos con respecto a su especie
 
-Se espera que al aplicar varios modelos y tecnicas diferentes de clasificacion logremos llegar a el metodo mas adecuado para un problema de clasificacion como este
+Se espera que al aplicar varios modelos y tecnicas diferentes de clasificacion logremos llegar a el metodo mas adecuado para un problema de clasificacion como este.
+
+Dentro de los modelos a comparar tenemos estos en contemplacion:
+* VGG
+* GoogLeNet
+* ResNet
+* DenseNet
+* Xception
 ## Contenido:
 
 En dataset cuenta con 77.382 fotos de 100 especies distintas de hongos tomadas en el territorio ruso, el dataset cuenta con una carpeta por cada especie de hongo y cada imagen es tomada de un hongo diferente y en diferentes ángulos por lo que no existen dos fotos iguales.
