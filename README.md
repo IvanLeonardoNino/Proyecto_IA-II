@@ -4,7 +4,7 @@
 
 Integrantes 
 * Ivan leonardo niño Villamil
-* Juan
+* Juan David Morantes Vergara
 * Compañera
 
 
