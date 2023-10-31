@@ -3,13 +3,14 @@
 ![Banner](https://github.com/IvanLeonardoNino/Proyecto_IA-II/assets/82769220/18aa1ae2-09fb-4cd7-aec7-35d9f455576c)
 
 ### Integrantes 
-* Ivan Leonardo Niño Villamil
+* Ivan Leonardo Niño Villamil - 2191968
 * Juan David Morantes Vergara
 * Mariana Robayo Nieto - 2195092
 
 El proyecto de Inteligencia Artificial (IA) tiene como objetivo desarrollar un sistema de clasificación de hongos utilizando redes neuronales convolucionales (CNN). El desafío principal es entrenar un modelo capaz de identificar con precisión las 100 especies de hongos del conjunto de datos "Mushroom species", disponible en Kaggle.
 
 Dataste y descripción:
+
 Nombre:Mushroom species
 
 Link: https://www.kaggle.com/datasets/thehir0/mushroom-species/
