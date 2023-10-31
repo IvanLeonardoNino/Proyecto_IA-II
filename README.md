@@ -1,14 +1,14 @@
-# Proyecto_IA-II (Sistema de clasificación de hongos)
+![image](https://github.com/IvanLeonardoNino/Proyecto_IA-II/assets/105314754/5d0108d8-e4a3-4bc1-b3cc-7da5e10a4499)# Proyecto_IA-II (Sistema de clasificación de hongos)
 
 ![Banner](https://github.com/IvanLeonardoNino/Proyecto_IA-II/assets/82769220/18aa1ae2-09fb-4cd7-aec7-35d9f455576c)
 
-## Integrantes 
+
+##Integrantes 
 * Ivan leonardo niño Villamil
 * Juan David Morantes Vergara
-* Compañera
+* Mariana Robayo Nieto - 2195092
 
-
-Repositorio que con tiene los datos del proyecto final de la materia Inteligencia artificial II
+El proyecto de Inteligencia Artificial (IA) tiene como objetivo desarrollar un sistema de clasificación de hongos utilizando redes neuronales convolucionales (CNN). El desafío principal es entrenar un modelo capaz de identificar con precisión las 100 especies de hongos del conjunto de datos "Mushroom species", disponible en Kaggle.
 
 Dataste y descripción:
 Nombre:Mushroom species
@@ -16,25 +16,14 @@ Nombre:Mushroom species
 Link: https://www.kaggle.com/datasets/thehir0/mushroom-species/
 
 Peso:10 GB
-## Idea General del proyecto
 
-Mediante este proyecto y teniendo en cuenta el dataset que contiene 100 especies de hongos distintos, la idea general consiste en entrenar varios modelos mediante capaces de clasificar los hongos con respecto a su especie
-
-Se espera que al aplicar varios modelos y tecnicas diferentes de clasificacion logremos llegar a el metodo mas adecuado para un problema de clasificacion como este.
-
-Dentro de los modelos a comparar tenemos estos en contemplacion:
-* VGG
-* GoogLeNet
-* ResNet
-* DenseNet
-* Xception
-## Contenido:
+Contenido:
 
 En dataset cuenta con 77.382 fotos de 100 especies distintas de hongos tomadas en el territorio ruso, el dataset cuenta con una carpeta por cada especie de hongo y cada imagen es tomada de un hongo diferente y en diferentes ángulos por lo que no existen dos fotos iguales.
 
-Cabe resaltar que todas las imágenes están a color, además de no encontrarse en el mismo formato de archivo y en diferentes tamaños.
+Se abordarán desafíos como la variabilidad en el tamaño, el formato y el color de las imágenes, así como la distinción entre especies similares. El objetivo es crear un clasificador preciso que, dada una imagen de un hongo, pueda identificar la especie con alta exactitud.
 
-Especies de hongos junto con su numero de fotos:
+El repositorio ya incluye el conjunto de datos con la cantidad de imagenes que contiene cada una de las 100 especies de hongos:
 
 * Amanita citrina: 292
 * Amanita muscaria: 4258
@@ -136,6 +125,10 @@ Especies de hongos junto con su numero de fotos:
 * Verpa bohemica: 787
 * Vulpicida pinastri: 865
 * Xanthoria parietina: 5837
+
+
+Se espera que este proyecto no solo logre clasificar con éxito estas especies, sino también se plantea como una herramienta útil en la identificación de hongos en entornos naturales o en estudios de biodiversidad, contribuyendo así a la ciencia y la preservación del medio ambiente.
+
 
 
 
