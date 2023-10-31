@@ -1,9 +1,8 @@
-![image](https://github.com/IvanLeonardoNino/Proyecto_IA-II/assets/105314754/5d0108d8-e4a3-4bc1-b3cc-7da5e10a4499)# Proyecto_IA-II (Sistema de clasificación de hongos)
+# Proyecto_IA-II (Sistema de clasificación de hongos)
 
 ![Banner](https://github.com/IvanLeonardoNino/Proyecto_IA-II/assets/82769220/18aa1ae2-09fb-4cd7-aec7-35d9f455576c)
 
-
-##Integrantes 
+Integrantes 
 * Ivan leonardo niño Villamil
 * Juan David Morantes Vergara
 * Mariana Robayo Nieto - 2195092
@@ -128,6 +127,9 @@ El repositorio ya incluye el conjunto de datos con la cantidad de imagenes que c
 
 
 Se espera que este proyecto no solo logre clasificar con éxito estas especies, sino también se plantea como una herramienta útil en la identificación de hongos en entornos naturales o en estudios de biodiversidad, contribuyendo así a la ciencia y la preservación del medio ambiente.
+
+
+
 
 
 
