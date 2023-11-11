@@ -4,7 +4,7 @@
 
 ### Integrantes 
 * Ivan Leonardo Niño Villamil - 2191968
-* Juan David Morantes Vergara
+* Juan David Morantes Vergara - 2191931
 * Mariana Robayo Nieto - 2195092
 
 El proyecto de Inteligencia Artificial (IA) tiene como objetivo desarrollar un sistema de clasificación de hongos utilizando redes neuronales convolucionales (CNN). El desafío principal es entrenar un modelo capaz de identificar con precisión las 100 especies de hongos del conjunto de datos "Mushroom species", disponible en Kaggle.
