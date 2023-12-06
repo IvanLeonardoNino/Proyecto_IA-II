@@ -1,15 +1,20 @@
-# Proyecto_IA-II (Sistema de clasificación de hongos)
+# Clasificación-de-Hongos
 
 ![Banner](https://github.com/IvanLeonardoNino/Proyecto_IA-II/assets/82769220/18aa1ae2-09fb-4cd7-aec7-35d9f455576c)
+
 
 ### Integrantes 
 * Ivan Leonardo Niño Villamil - 2191968
 * Juan David Morantes Vergara - 2191931
 * Mariana Robayo Nieto - 2195092
 
-El proyecto de Inteligencia Artificial (IA) tiene como objetivo desarrollar un sistema de clasificación de hongos utilizando redes neuronales convolucionales (CNN). El desafío principal es entrenar un modelo capaz de identificar con precisión las 100 especies de hongos del conjunto de datos "Mushroom species", disponible en Kaggle.
+El propósito fundamental de este proyecto es implementar y entrenar una red neuronal convolucional (CNN) con el fin de realizar predicciones precisas sobre las 16 familias de hongos que han sido identificadas manualmente por nuestro equipo de trabajo. Cada especie de hongos ha sido clasificada en una de estas 16 familias, y aquellas que no pudieron asignarse a una familia específica fueron eliminadas del conjunto de datos. La base de datos utilizada fue extraída de 'Mushroom species' en Kaggle, la cual consiste en carpetas de imágenes organizadas por especie de hongos.
 
-Dataste y descripción:
+Durante el procesamiento de las imágenes, nos aseguramos de que cada familia estuviera representada por un máximo de 1000 imágenes, garantizando así un equilibrio en la distribución de datos. El enfoque del modelo se centra en analizar de manera eficiente las características distintivas de cada familia de hongos, optimizando así la capacidad de predicción del sistema.
+
+El objetivo final de este proyecto es desarrollar un modelo de predicción robusto que permita la clasificación precisa de hongos. Este enfoque no solo contribuirá a una identificación fiable de especies, sino que también facilitará la investigación y clasificación de estos organismos en nuestro entorno.
+
+Dataset Original y descripción:
 
 Nombre:Mushroom species
 
@@ -20,8 +25,6 @@ Peso:10 GB
 Contenido:
 
 En dataset cuenta con 77.382 fotos de 100 especies distintas de hongos tomadas en el territorio ruso, el dataset cuenta con una carpeta por cada especie de hongo y cada imagen es tomada de un hongo diferente y en diferentes ángulos por lo que no existen dos fotos iguales.
-
-Se abordarán desafíos como la variabilidad en el tamaño, el formato y el color de las imágenes, así como la distinción entre especies similares. El objetivo es crear un clasificador preciso que, dada una imagen de un hongo, pueda identificar la especie con alta exactitud.
 
 El repositorio ya incluye el conjunto de datos con la cantidad de imagenes que contiene cada una de las 100 especies de hongos:
 
@@ -126,11 +129,26 @@ El repositorio ya incluye el conjunto de datos con la cantidad de imagenes que c
 * Vulpicida pinastri: 865
 * Xanthoria parietina: 5837
 
+Al momento de Procesar y clasificar los datos anteriores en Familias obtuvimos las siguientes:
 
-Se espera que este proyecto no solo logre clasificar con éxito estas especies, sino también se plantea como una herramienta útil en la identificación de hongos en entornos naturales o en estudios de biodiversidad, contribuyendo así a la ciencia y la preservación del medio ambiente.
+* Familia Amanita
+* Familia Boletus
+* Familia Cladonia
+* Familia Coprinellus
+* Familia Daedaleopsis
+* Familia Ervenia
+* Familia Formitopsis
+* Familia Gyromitra
+* Familia Hypoloma
+* Familia Lactarius
+* Familia Leccinum
+* Familia Peltigera
+* Familia Phellinus
+* Familia Pholiota
+* Familia Suillus
+* Familia Trametes
 
-
-
+Se espera que el proyecto culmine con un modelo de inteligencia artificial efectivo y útil para la identificación de especies de hongos, contribuyendo al avance en la investigación y conocimiento de la micología.
 
 
 
