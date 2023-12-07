@@ -13,8 +13,12 @@ El propósito fundamental de este proyecto es implementar y entrenar una red neu
 Durante el procesamiento de las imágenes, nos aseguramos de que cada familia estuviera representada por un máximo de 1000 imágenes, garantizando así un equilibrio en la distribución de datos. El enfoque del modelo se centra en analizar de manera eficiente las características distintivas de cada familia de hongos, optimizando así la capacidad de predicción del sistema.
 
 El objetivo final de este proyecto es desarrollar un modelo de predicción robusto que permita la clasificación precisa de hongos. Este enfoque no solo contribuirá a una identificación fiable de especies, sino que también facilitará la investigación y clasificación de estos organismos en nuestro entorno.
+
+
 Diapositivas:
 https://www.canva.com/design/DAF2Pdex28E/q514iYRIh1wsAJhmC-GnWg/watch?utm_content=DAF2Pdex28E&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+
 Dataset Original y descripción:
 
 Nombre:Mushroom species
