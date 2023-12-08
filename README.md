@@ -14,6 +14,7 @@ Durante el procesamiento de las imágenes, nos aseguramos de que cada familia es
 
 El objetivo final de este proyecto es desarrollar un modelo de predicción robusto que permita la clasificación precisa de hongos. Este enfoque no solo contribuirá a una identificación fiable de especies, sino que también facilitará la investigación y clasificación de estos organismos en nuestro entorno.
 
+Video: https://youtu.be/PR2bpem3AU8
 
 Diapositivas:
 https://www.canva.com/design/DAF2Pdex28E/q514iYRIh1wsAJhmC-GnWg/watch?utm_content=DAF2Pdex28E&utm_campaign=designshare&utm_medium=link&utm_source=editor
