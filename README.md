@@ -1,4 +1,4 @@
-# Clasificación-de-Hongos
+# Fungi Connect
 
 ![Banner](https://github.com/IvanLeonardoNino/Proyecto_IA-II/assets/82769220/18aa1ae2-09fb-4cd7-aec7-35d9f455576c)
 
